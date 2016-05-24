@@ -1,0 +1,14 @@
+layout_spectrum: 0.3
+typography_spectrum: 1
+color:
+  saturation: 0.3340425
+  lightness: 0.5085106
+  brandStrength: 0.02428238
+  brandColors:
+    - '#FEFEFE'
+    - '#282828'
+    - '#8E8A8B'
+    - '#C1BEBF'
+    - '#686465'
+  rhythmicContrast: 0.3765957
+name: 'IMMEDIATEBOND '
