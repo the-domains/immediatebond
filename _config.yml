@@ -1,6 +1,6 @@
 name: 'IMMEDIATEBOND '
 favicon: null
-layout_spectrum: 0.3
+layout_spectrum: 0
 typography_spectrum: 1
 title: THIRST TO CONNECT
 cta:
@@ -22,8 +22,8 @@ color:
     - '#8E8A8B'
     - '#C1BEBF'
     - '#686465'
-  brandStrength: 0.02428238
-  lightness: 0.5085106
-  saturation: 0.3340425
-  rhythmicContrast: 0.3765957
+  brandStrength: 0.875
+  lightness: 0.4375
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
