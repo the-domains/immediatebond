@@ -1,14 +1,29 @@
+name: 'IMMEDIATEBOND '
+favicon: null
 layout_spectrum: 0.3
 typography_spectrum: 1
+title: THIRST TO CONNECT
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3340425
-  lightness: 0.5085106
-  brandStrength: 0.02428238
   brandColors:
     - '#FEFEFE'
     - '#282828'
     - '#8E8A8B'
     - '#C1BEBF'
     - '#686465'
+  brandStrength: 0.02428238
+  lightness: 0.5085106
+  saturation: 0.3340425
   rhythmicContrast: 0.3765957
-name: 'IMMEDIATEBOND '
+purpose: []
